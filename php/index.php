@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="../CSS/style.css">
 	</head>
 
+	
      <?php
 		require('../php/menu.php');
         echo Menu::GetMenu($_GET['page']);

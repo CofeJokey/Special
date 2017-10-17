@@ -4,6 +4,7 @@
 
 class Content{
     
+	
 		public static $items = [   
 		1 => array( 'link' => '../assets/index.html'),
 		2 => array( 'link' => '../assets/start.html'),
